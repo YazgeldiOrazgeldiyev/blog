@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Оразгелдиев Язгелди
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Язгелди
+last_name: Оразгелдиев
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: студент
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: РУДН
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,9 +26,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Программирование
 
 # Education to show in About widget
 education:
@@ -48,9 +46,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -80,5 +76,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Оразгелдиев Язгелди - студент группы НКАбд-04-22. Обучается в Российском Университете Дружбы Народов.
 {style="text-align: justify;"}
