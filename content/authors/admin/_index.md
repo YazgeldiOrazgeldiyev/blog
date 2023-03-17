@@ -19,7 +19,7 @@ role: студент
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: РУДН
-    url: https://www.stanford.edu/
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
