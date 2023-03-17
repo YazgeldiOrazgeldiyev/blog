@@ -1,5 +1,6 @@
 ---
 title: Управление версиями. Git
+
 # Summary for listings and search engines
 summary: Операционные системы
 
