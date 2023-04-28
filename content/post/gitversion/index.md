@@ -8,10 +8,10 @@ summary: Операционные системы
 projects: []
 
 # Date published
-date: '2023-03-1800:00:005Z'
+date: '2023-03-1900:00:005Z'
 
 # Date updated
-lastmod: '2023-03-18T00:00:00Z'
+lastmod: '2023-03-19T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
