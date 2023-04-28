@@ -1,8 +1,8 @@
 ---
-title: Третья неделя
+title: Создание презентации
 
 # Summary for listings and search engines
-summary: Пост по прошедшей неделе.
+summary: Гайд по Power Point
 
 # Link this post with a project
 projects: []
